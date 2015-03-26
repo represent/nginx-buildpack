@@ -24,6 +24,10 @@ types {
     image/x-ms-bmp                        bmp;
     image/svg+xml                         svg;
 
+    application/vnd.ms-fontobject         eot;
+    application/x-font-ttf                ttf;
+    application/font-woff                 woff;
+
     application/java-archive              jar war ear;
     application/mac-binhex40              hqx;
     application/msword                    doc;
