@@ -1,3 +1,9 @@
+## V0.4.1
+
+2015-11-19
+
+* NGINX 1.9.7 and updated dependencies
+
 ## v0.4
 
 2012-05-13
